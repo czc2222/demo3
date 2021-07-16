@@ -1,7 +1,0 @@
-touch index.html
-echo '<html>
-<head>world</head>
-<body>
-<h1>"this is my world"</h1>
-</body>
-</html>' > index.html
